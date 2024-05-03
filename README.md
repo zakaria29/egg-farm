@@ -1,5 +1,5 @@
 # EGG FARM PROJECT
-## This project make for learning about how to create a express project using TypeScript. It contains about CRUD, validate request, authentication, authorization, and simple transactions.
+This project make for learning about how to create a express project using TypeScript. It contains about CRUD, validate request, authentication, authorization, and simple transactions.
 
 ## Prepare Project
 Create a new folder and name it your project
